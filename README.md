@@ -2,7 +2,7 @@
 
 Hi! I'm **Kelvin Xisto**, and this is my space for side projects, personal experiments, and things I build for fun and learning.
 
-I go by **khiomis** here — this is where I let creativity and curiosity run free.
+I go by **snevos** here — this is where I let creativity and curiosity run free.
 
 ### 🧪 What you'll find here:
 - 💡 Experimental apps & tools
@@ -14,11 +14,11 @@ I go by **khiomis** here — this is where I let creativity and curiosity run fr
 
 ### 🚧 Currently Working On:
 - 🎮 A **2D game** using **Godot**
-- 📱 A multiplatform **app** built with **Flutter** with the **backend** build with **Golang**
+- 📱 A multiplatform **app** built with **Flutter** with the **backend** build with **.Net**
 
 ---
 
 ### 📫 Want to connect?
 - [LinkedIn](https://www.linkedin.com/in/kelvin-xisto/)
-- [Portfolio](https://github.com/khiomis) ← you're already here!
+- [Portfolio](https://github.com/snevoswindstra) ← you're already here!
 - [Professional Git Account](https://github.com/kelvinxs)
