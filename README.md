@@ -1,6 +1,7 @@
 # 👋 Welcome to my GitHub!
 
 Hi! I'm **Snevos**.
+
 This is my space for side projects, personal experiments, and things I build for fun and learning.
 
 ### 🧪 What you'll find here:
