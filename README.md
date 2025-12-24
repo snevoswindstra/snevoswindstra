@@ -2,7 +2,7 @@
 
 Hi! I'm **Kelvin Xisto**, and this is my space for side projects, personal experiments, and things I build for fun and learning.
 
-I go by **snevos** here — this is where I let creativity and curiosity run free.
+I go by **Snevos** here — this is where I let creativity and curiosity run free.
 
 ### 🧪 What you'll find here:
 - 💡 Experimental apps & tools
