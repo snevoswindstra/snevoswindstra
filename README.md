@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub!
+# 👋 Welcome!
 
 Hi! I'm **Snevos**.
 
@@ -20,5 +20,4 @@ This is my space for side projects, personal experiments, and things I build for
 
 ### 📫 Want to connect?
 - [LinkedIn](https://www.linkedin.com/in/kelvin-xisto/)
-- [Portfolio](https://github.com/snevoswindstra) ← you're already here!
 - [Professional Git Account](https://github.com/kelvinxs)
